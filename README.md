@@ -20,7 +20,7 @@ This is a basic counter app built using **React Native**. The purpose of this ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/anirudhsingh8/counter-app.git
+    git clone https://github.com/anirudhsingh8/Counter.git
     ```
 
 2. Navigate to the project directory:
